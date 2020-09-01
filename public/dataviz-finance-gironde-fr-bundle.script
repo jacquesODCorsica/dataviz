@@ -28659,27 +28659,27 @@
             GIRONDE_FR_DRUPAL_MEDIA_ID = void 0,
             urls = exports.urls = (_urls = {}, _defineProperty(_urls, FINANCE_DATA, {
                 production: "/media/" + GIRONDE_FR_DRUPAL_MEDIA_ID + "/field_dataviz_files/22",
-                demo: "/test%20direct/public/finance-data.json",
+                demo: "/dataviz/public/finance-data.json",
                 development: "../public/finance-data.json"
             }[env]), _defineProperty(_urls, CORRECTIONS_AGGREGATED, {
                 production: "/media/" + GIRONDE_FR_DRUPAL_MEDIA_ID + "/field_dataviz_files/14",
-                demo: "/test%20direct/data/finances/corrections-agregation.csv",
+                demo: "/dataviz/data/finances/corrections-agregation.csv",
                 development: "/data/finances/corrections-agregation.csv"
             }[env]), _defineProperty(_urls, AGGREGATED_ATEMPORAL, {
                 production: "/media/" + GIRONDE_FR_DRUPAL_MEDIA_ID + "/field_dataviz_files/16",
-                demo: "/test%20direct/data/texts/aggregated-atemporal.csv",
+                demo: "/dataviz/data/texts/aggregated-atemporal.csv",
                 development: "../data/texts/aggregated-atemporal.csv"
             }[env]), _defineProperty(_urls, AGGREGATED_TEMPORAL, {
                 production: "/media/" + GIRONDE_FR_DRUPAL_MEDIA_ID + "/field_dataviz_files/15",
-                demo: "/test%20direct/data/texts/aggregated-temporal.csv",
+                demo: "/dataviz/data/texts/aggregated-temporal.csv",
                 development: "../data/texts/aggregated-temporal.csv"
             }[env]), _defineProperty(_urls, CARTE_PRESENCE_HTML, {
                 production: "/media/" + GIRONDE_FR_DRUPAL_MEDIA_ID + "/field_dataviz_files/18",
-                demo: "/test%20direct/public/carte-presence.html",
+                demo: "/dataviz/public/carte-presence.html",
                 development: "../public/carte-presence.html"
             }[env]), _defineProperty(_urls, ANIMATION_VIDEO, {
                 production: "/media/" + GIRONDE_FR_DRUPAL_MEDIA_ID + "/field_dataviz_files/21",
-                demo: "/test%20direct/videos/BLOUBLOU_V2_5.mp4",
+                demo: "/dataviz/videos/BLOUBLOU_V2_5.mp4",
                 development: "../videos/BLOUBLOU_V2_5.mp4"
             }[env]), _defineProperty(_urls, INSERTION_PICTO, {
                 production: "/media/" + GIRONDE_FR_DRUPAL_MEDIA_ID + "/field_dataviz_files/0",
